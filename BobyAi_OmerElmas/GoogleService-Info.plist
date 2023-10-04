@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCIY8D-lZB-TFpCX5J0kSGcXL9t-T7nUPU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>581888190551</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>elmas.ToDoAIDemo</string>
+	<key>PROJECT_ID</key>
+	<string>bobyai</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bobyai.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:581888190551:ios:32d72d20328a3b46ab5b12</string>
+</dict>
+</plist>
